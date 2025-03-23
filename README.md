@@ -38,3 +38,8 @@ The chatbot will require robust security measures to ensure user data privacy an
 
 Scalability and Performance
 The chatbot will be designed to handle a large volume of user queries and provide fast and accurate responses. The project will ensure scalability and performance by utilizing suitable hardware and software infrastructure, such as cloud computing and load balancing.**
+
+
+output
+
+![Image](https://github.com/user-attachments/assets/bfee9211-7fe3-4a6d-b582-0f3a02cdfe83)
